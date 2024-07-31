@@ -19,7 +19,9 @@ My CNC router:
 ESP-NOW:
        • ESP NOW: Espressif's Wireless-Communi...  https://youtu.be/QmvMtgNs9r8?si=IjlicyEZRQglDU54
 
-Timeline:
+_______________________
+
+Pendant video Timeline:
 
 00:00 Intro
 

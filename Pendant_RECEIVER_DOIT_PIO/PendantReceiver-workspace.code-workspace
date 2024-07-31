@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Default Light+",
+		"files.associations": {
+			"cmath": "cpp",
+			"cstdlib": "cpp"
+		}
+	}
+}

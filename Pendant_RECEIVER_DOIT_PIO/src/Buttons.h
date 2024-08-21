@@ -331,8 +331,8 @@ void ProcessButtons()
       delay(10); 
       Beep(); // Sound to tell you Homing has been invoked.
       Serial.println(" Probing! Check DRO to see if it worked. ");
-      SendCommand(true, "G21 G91 G38.2 F60 Z-10\n"); // ProbeZ command.
-                                          // Probe must be wired up correctly and bit must be within 10 mm of plate surface.
+      SendCommand(true, "G21 G91 G38.2 F60 Z-2.0\n"); // ProbeZ command.
+                                          // Probe must be wired up correctly and bit must be within 2 mm of plate surface.
                                           // Stops when it hits the plate top and sets that to Z zero.
       int x = 0;
       do
